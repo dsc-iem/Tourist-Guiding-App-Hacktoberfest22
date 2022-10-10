@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://blogbook-blog.herokuapp.com/">
-        <img src="https://raw.githubusercontent.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.sv" alt="[Project Logo]" width="30%"> 
+    <a href="https://github.com/dsc-iem//Tourist-Guiding-App-Hacktoberfest22/contributors">
+        <img src="https://raw.githubusercontent.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" alt="[Project Logo]" width="30%"> 
     </a>
 </p> 
 
