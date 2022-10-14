@@ -77,7 +77,7 @@ Why not start your open source journey by merging some codes here. It will be ve
   *  Indent/Beautify/Modify codes.
 
 ### List of Contributors
-   Jump to [Contributors.md](https://github.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/blob/main/contributors.md)
+   Jump to [Contributors.md](https://github.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/contributors.md)
    
 ### Live project link
 * Heroku - [Project Link]
