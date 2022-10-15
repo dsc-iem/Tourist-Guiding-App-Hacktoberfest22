@@ -1,5 +1,5 @@
-# [PROJECT NAME]- Contributions
-
+# Tourist-Guiding-App-Hacktoberfest22- Contributions
+* Arpan Ghosh(arpanghosh2416) - Provided the PPT and the project overview documentation.
 
 ## Prerequisite
 * [Git](https://git-scm.com/downloads) 
