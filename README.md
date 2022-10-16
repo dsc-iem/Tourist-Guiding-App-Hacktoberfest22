@@ -8,20 +8,20 @@
 Hello,
 Welcome to Tourist Guiding App.<br>
 PROJECT DOMAIN - Its a project based on Full Stack Web Development<br>
-Issuses will be soon be given in this project. After the issue has been solved and pull request is merged, please write the name in Contributors.md {Link Given Below}
+Issuses will be soon be given in this project. After the issue has been solved and pull request is merged, please write the name in [Contribute.md](https://github.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/blob/main/CONTRIBUTE.md)
 ### PREREQUISITE KNOWLEDGE: -
 * Spring Boot With JAVA (Back-End)
 * Angular (Front-End)
-* Heroku [for the back-end part as a server](later Firebase maybe used)
-* Netlify [deployment of the front-end part]
-* Database : H2(Embedded Database in Spring Boot. Later MongoDB can be in use.)
+* Heroku [for deployment of the back-end part in the server]
+* Netlify [deployment of the static front-end part]
+* Database : H2(Embedded Database in Spring Boot. Later MongoDB/MySQL can be in use.)
 
 ### Technical Skillset need to have for the issues in future: -
-* <p>Programming Language used: - <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
-* <p>Front-End: - <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></p>
-* <p>BaaS: - <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40" /></a>  {Can be used in future}                  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> {Currently in use} </p>
-* <p>Back-End: - <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></p>
-* <p>Database: - <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> (Can be used in future with Spring Boot.)</p>
+* Programming Language used: - JAVA, JavaScript
+* Front-End: - Angular
+* BaaS: - Heroku, Netlify
+* Back-End: - Spring Boot
+* Database: - H2 (Embedded Database), [MySQL/MongoDB (can be used when needed)]
 
 # Hacktober Fest Accepted 
 
@@ -51,14 +51,14 @@ Issuses will be soon be given in this project. After the issue has been solved a
 - The pull request must contain commits you made yourself.
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-- To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
-- This year, the first 40,000 participants can earn a T-shirt.
+- To get a shirt, you must make <b>4 approved Pull Requests (PRs)</b> on opted-in projects between October 1-31 in any time zone.
+- This year, the first <b>40,000 participants</b> can earn a T-shirt.
 ---
 
 # Contribute
    ### Do Read - [Code of Conduct](https://github.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/blob/main/CODE_OF_CONDUCT.md)
    ### Jump to - [Contribute.md](https://github.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/blob/main/CONTRIBUTE.md) (updated)
-Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues.
+<h4>Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues!</h4>
 
 ## Steps for a successful commit :zap:
 - Choose any of the **Ways to contribute** for contribution.
@@ -72,16 +72,16 @@ Why not start your open source journey by merging some codes here. It will be ve
  ### Ways to Contribute 
   * Find a bug by running the project locally
   * Solve the [issues](https://github.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/issues) which are already set up
-  * Sugget some change or create your own isssue
-  *  Create documentation like site structure, how to write a blog,etc
-  *  Indent/Beautify/Modify codes.
+  * Suggest some change or create your own isssue
+  * Create documentation like site structure, how to write a blog,etc
+  * Indent/Beautify/Modify codes.
 
 ### List of Contributors
    Jump to [Contributors.md](https://github.com/dsc-iem/Tourist-Guiding-App-Hacktoberfest22/contributors.md)
    
 ### Live project link
-* Heroku - [Project Link]
-* Website - [Project Link]
+* Heroku - [Project Link to be Updated]
+* Website - [Project Link to be Updated]
 
 
 
