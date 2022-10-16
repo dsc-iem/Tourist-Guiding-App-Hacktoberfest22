@@ -1,5 +1,5 @@
 # Project-Template-Hacktoberfest22- How to use it
-1. You can fork the repository directly but this will be a forked repo not your orginal one.
+1. You can fork the repository directly but this will be a forked repo not your original one.
 2. So clone the files in local and then add the files to your project folder.
 
 ## Changes to be done
