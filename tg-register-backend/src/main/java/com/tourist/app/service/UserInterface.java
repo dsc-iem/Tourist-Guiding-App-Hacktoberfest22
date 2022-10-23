@@ -25,4 +25,10 @@ public interface UserInterface {
 
 	public User getUserbypreferredLanguage(String prefLanguage);
 
+	public void deleteUserById(String id);
+
+	public User updateUserbyId(String id);
+
+	public User createUser(User user);
+
 }
